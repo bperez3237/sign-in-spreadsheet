@@ -1,0 +1,4698 @@
+{
+    "RICHARD AMABILE": {
+        "base": 65.0,
+        "pt_base": 97.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MILTON YANCHAPANTA": {
+        "base": 77.15,
+        "pt_base": 115.725,
+        "fringe": 41.91,
+        "pt_fringe": 41.91,
+        "S3": 0,
+        "Company": "Tristan"
+    },
+    "LUIS TINIZHANAY": {
+        "base": 73.58,
+        "pt_base": 110.37,
+        "fringe": 41.91,
+        "pt_fringe": 41.91,
+        "S3": 0,
+        "Company": "Tristan"
+    },
+    "VALON BALLATA": {
+        "base": 45.25,
+        "pt_base": 67.875,
+        "fringe": 37.88,
+        "pt_fringe": 37.88,
+        "S3": 0,
+        "Company": "Triangle"
+    },
+    "ORHAN ELSHANI": {
+        "base": 45.25,
+        "pt_base": 67.875,
+        "fringe": 37.88,
+        "pt_fringe": 37.88,
+        "S3": 0,
+        "Company": "Triangle"
+    },
+    "FEMI ZEGA": {
+        "base": 45.25,
+        "pt_base": 67.875,
+        "fringe": 37.88,
+        "pt_fringe": 37.88,
+        "S3": 0,
+        "Company": "Triangle"
+    },
+    "JOHN AMATO": {
+        "base": 26.0,
+        "pt_base": 39.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JOSEPH CASSAR": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "HAI LU": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JAMES ANNUNZIATA": {
+        "base": 64.0,
+        "pt_base": 96.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "EDWIN DOLMO": {
+        "base": 60.0,
+        "pt_base": 90.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "VAL RUIZ": {
+        "base": 60.0,
+        "pt_base": 90.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "WILLIAM CAPRI": {
+        "base": 62.25,
+        "pt_base": 93.375,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "LYDIA DE LA ROSA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ALEXO GAVIDIA": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "LUCY MARTE": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "NICHOLAOS PETRATOS": {
+        "base": 40.5,
+        "pt_base": 60.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CARLOS QUITO": {
+        "base": 40.55,
+        "pt_base": 60.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JULIO LOPEZ": {
+        "base": 45.5,
+        "pt_base": 68.25,
+        "fringe": 10.55,
+        "pt_fringe": 10.55,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MARITZA MORA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "GUSTAVO OCHOA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MILTON QUITO": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ANGELA SALINAS": {
+        "base": 40.5,
+        "pt_base": 60.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "GARY BECK": {
+        "base": 59.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "JONATHAN DEGANNES": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "LANICE WILSON": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "LAWRENCE HUNTER": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CHRISTIAN SAENZ": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "NICHOLAS SEXTON": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "DENISE ESTRADA MARTINEZ": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CHRISTOPHER WAYNE SMITH": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "EDWARD OWEN MILLER": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "TERRELL REID": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "OWILSON PALACIOS": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "XAVIER CHANALATA": {
+        "base": 43.98,
+        "pt_base": 65.97,
+        "fringe": 47.36,
+        "pt_fringe": 47.36,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "LEROY JOHNSON": {
+        "base": 43.98,
+        "pt_base": 65.97,
+        "fringe": 47.36,
+        "pt_fringe": 47.36,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "RICARDO PHILLIP": {
+        "base": 46.15,
+        "pt_base": 69.225,
+        "fringe": 59.62,
+        "pt_fringe": 59.62,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "DONOVAN WHITE": {
+        "base": 46.15,
+        "pt_base": 69.225,
+        "fringe": 61.02,
+        "pt_fringe": 61.02,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "DELLWIN CARPIO": {
+        "base": 46.15,
+        "pt_base": 69.225,
+        "fringe": 61.02,
+        "pt_fringe": 61.02,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "JESSE SIMONSON": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CLEON JAMES": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROSA BARREIRO": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JORGE CHANALATA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "LUIS CHANALATA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JESUS GUTIERREZ": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JULIO BRAVO": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "GELSON PERALTA": {
+        "base": 48.5,
+        "pt_base": 69.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "LUIS RODRIGUEZ": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "EDWARD SALAZAR": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSE ALVARRACIN": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CANDIDO CERI": {
+        "base": 62.75,
+        "pt_base": 94.125,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JOHN HURLEY": {
+        "base": 18.75,
+        "pt_base": 28.125,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "LUIS MURILLO": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MICHAEL FELIPE": {
+        "base": 62.75,
+        "pt_base": 94.125,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "RONY MEZA": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "OMAR RIVAS": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "JOHN MILLER": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "RUSSELL MILLER": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "GENNARO ROMITO": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "SERHIY FEDORTSI": {
+        "base": 75.25,
+        "pt_base": 112.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "VITALIY MUKAN": {
+        "base": 75.25,
+        "pt_base": 112.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "SCOTT HARRIS": {
+        "base": 74.85,
+        "pt_base": 112.27499999999999,
+        "fringe": 38.91,
+        "pt_fringe": 38.91,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "SHAWN THOMAS": {
+        "base": 19.78,
+        "pt_base": 29.67,
+        "fringe": 6.43,
+        "pt_fringe": 6.43,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "TREMAYNE JENKINS": {
+        "base": 34.51,
+        "pt_base": 51.765,
+        "fringe": 20.94,
+        "pt_fringe": 20.94,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "JOHN MARADIAGA": {
+        "base": 51.7,
+        "pt_base": 77.55,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "VICTOR FALCON": {
+        "base": 51.7,
+        "pt_base": 77.55,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "WIESLAW KAPUSCINSKI": {
+        "base": 75.25,
+        "pt_base": 112.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "NICHOLAS KORZEVINSKI": {
+        "base": 75.25,
+        "pt_base": 112.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "BRIAN CUMMINS": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "MAXIMILLIAN GEYLER": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "NORBERT DUDZINSKI": {
+        "base": 75.25,
+        "pt_base": 112.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "TIMOTHY BREYER": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "DANIEL COTTRELL": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CHARLES DAVIS": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "WILLIE RICHARDSON": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "ALEXANDER AVENIA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CESAR LEMA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CARLOS GUZMAN": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CRISTIAN MORALES": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "DAVID WARREN": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ELIEZETT SANTANA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "LUIS SANGUA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 20.35,
+        "pt_fringe": 20.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GERONIMO TORO": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JAIME PENE": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JAIRO ZAMORA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JESUS MORALES": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSE TACLE": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "LUIS AVILVA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "NELSON CARRANZA": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "OSIRIS RAMIREZ": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WILSON LOPEZ": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "RAFAEL POLANCO": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSE ENCALADA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CLAUDIO BUENO": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "DARIUSZ NOSOROWSKI": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "FRANCISCO ROMERO": {
+        "base": 46.5,
+        "pt_base": 66.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "KLEVER ORELLANA": {
+        "base": 46.5,
+        "pt_base": 66.75,
+        "fringe": 11.4,
+        "pt_fringe": 11.4,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MAXIM GORMAN": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ROBERTO KUKUSH": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "VASYL GVOZDYANCHUK": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "EDIZON GUALLPA": {
+        "base": 45.5,
+        "pt_base": 68.25,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WAZIR HAKIM": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CRISTHIAN TAPIA": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "DANIEL SANGURIMA": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "AMAURY REYES": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ANTHUAN LONDONO": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "CARLOS RUBIO": {
+        "base": 38.05,
+        "pt_base": 57.08,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MANUEL QUITO": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ALEXANDER SHEVTSOV": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MANUEL GUALLPA": {
+        "base": 45.5,
+        "pt_base": 68.25,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ANTHONY FLEURY": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "SEAN JEAN-PIERRE": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "YUSEF WILLIAMS": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "TONY LEE": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "ZHAO WU": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "YONG ZHOU": {
+        "base": 59.9,
+        "pt_base": 89.85,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CLARA SOSA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSEPH CRIMI": {
+        "base": 62.75,
+        "pt_base": 94.13,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "RYAN CROWLEY": {
+        "base": 29.8,
+        "pt_base": 44.7,
+        "fringe": 60.8,
+        "pt_fringe": 60.8,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "TIMOTHY CARROLL": {
+        "base": 28.07,
+        "pt_base": 42.1,
+        "fringe": 53.78,
+        "pt_fringe": 53.78,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "SADEIK HANIF": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "ANTHONY VELAZQUEZ": {
+        "base": 52.77,
+        "pt_base": 79.16,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SHADIE ASSAD": {
+        "base": 37.35,
+        "pt_base": 56.03,
+        "fringe": 35.77,
+        "pt_fringe": 35.77,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAMEL HALL": {
+        "base": 37.35,
+        "pt_base": 56.03,
+        "fringe": 35.77,
+        "pt_fringe": 35.77,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FLAVIO TLATELPA": {
+        "base": 56.93,
+        "pt_base": 85.34,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CESAR BANOS": {
+        "base": 56.93,
+        "pt_base": 85.34,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MATTHEW DELESSIO": {
+        "base": 56.93,
+        "pt_base": 85.34,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARK JACOBOVITCH": {
+        "base": 59.0,
+        "pt_base": 88.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ANDRE MEIKLE": {
+        "base": 59.0,
+        "pt_base": 88.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ANTHONY RANIERI": {
+        "base": 59.0,
+        "pt_base": 88.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JAKUB ZAGROBA": {
+        "base": 18.75,
+        "pt_base": 28.13,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "CONRAD DORE": {
+        "base": 64.0,
+        "pt_base": 96.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JARKARTA JENKINS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "RALPH SPAMPINATO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RUBEN PICAZO": {
+        "base": 43.98,
+        "pt_base": 65.97,
+        "fringe": 47.36,
+        "pt_fringe": 47.36,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "THOMAS MCDEVITT": {
+        "base": 43.98,
+        "pt_base": 65.97,
+        "fringe": 47.36,
+        "pt_fringe": 47.36,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "KEVIN GIBBONS": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "JEREMY GONZALEZ": {
+        "base": 59.9,
+        "pt_base": 89.85,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "VARON LITTLE": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ALEK ABRAHAMS": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MARLON GOUVEIA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ERIC JETER": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MIKE DIPAOLO": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "CESAR RAMOS": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DOUGLAS BEATY": {
+        "base": 62.0,
+        "pt_base": 93.0,
+        "fringe": 55.63,
+        "pt_fringe": 55.63,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "TAMAZ PETRIASHVILI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 55.98,
+        "pt_fringe": 55.98,
+        "S3": 0,
+        "Company": "Richmar"
+    },
+    "DENNIS COLLINS": {
+        "base": 54.2,
+        "pt_base": 81.30000000000001,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "DIANAND RAMNATH": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "CESAR PAULINO": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "ELIJAH KARIM": {
+        "base": 29.8,
+        "pt_base": 44.7,
+        "fringe": 60.8,
+        "pt_fringe": 60.8,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "JOSE MIESES": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "SHAHEED KHAN": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "HEYMANT BUDHRAM": {
+        "base": 29.42,
+        "pt_base": 44.13,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "VISHUNE PERSAUD": {
+        "base": 54.2,
+        "pt_base": 81.30000000000001,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "THOMAS GILLINGHAM": {
+        "base": 90.77,
+        "pt_base": 136.155,
+        "fringe": 37.150000000000006,
+        "pt_fringe": 37.15,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "DONALD MACKENZIE": {
+        "base": 64.43,
+        "pt_base": 96.64500000000001,
+        "fringe": 44.82,
+        "pt_fringe": 42.11,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "DANIEL LIVSEY": {
+        "base": 90.77,
+        "pt_base": 136.155,
+        "fringe": 37.15,
+        "pt_fringe": 37.15,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "RAJIV JUDHAN": {
+        "base": 54.2,
+        "pt_base": 81.3,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "ENRIQUE MARTINEZ": {
+        "base": 55.7,
+        "pt_base": 83.55,
+        "fringe": 88.81,
+        "pt_fringe": 88.81,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "KELVIN ADAMS": {
+        "base": 55.7,
+        "pt_base": 83.55,
+        "fringe": 88.81,
+        "pt_fringe": 88.81,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "JOSEPH VOLPE": {
+        "base": 93.33,
+        "pt_base": 186.66,
+        "fringe": 37.15,
+        "pt_fringe": 37.15,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "TIMOTHY SIACHITANO": {
+        "base": 62.8,
+        "pt_base": 94.19999999999999,
+        "fringe": 64.59,
+        "pt_fringe": 64.59,
+        "S3": 0,
+        "Company": "Callahan"
+    },
+    "RICHARD GEDDES": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 64.59,
+        "pt_fringe": 64.59,
+        "S3": 0,
+        "Company": "Callahan"
+    },
+    "FRANKLYN MOSES": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOSEPH FUREY": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "CHRISTOPHER VASQUEZ": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JEMAL ADAMS": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "ANTHONY QUINTERO": {
+        "base": 42.91,
+        "pt_base": 64.37,
+        "fringe": 43,
+        "pt_fringe": 43,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JONATHAN ERDMAN": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "CHARLES DAESCHER": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "ANTHONY ARGENTI": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "RICHARD ARGENTI": {
+        "base": 61.8,
+        "pt_base": 92.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "KELVIN PERALTA": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "MATEUSZ KOWALSKI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 55.91,
+        "pt_fringe": 55.91,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "JORGE MOREIRA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 53.41,
+        "pt_fringe": 53.41,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "PETER TORRES": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 51.13,
+        "pt_fringe": 51.13,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "GIORGI GOGASHVILI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 58.06,
+        "pt_fringe": 58.06,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "BHOJKARRAN NANHU": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "CHRIS RAMPERSAD": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "BORIS KHEYFETS": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 58.3,
+        "pt_fringe": 58.3,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "MERITON RECICA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 58.19,
+        "pt_fringe": 58.19,
+        "S3": 0,
+        "Company": "EIA"
+    },
+    "MIGUEL DIAZ": {
+        "base": 54.95,
+        "pt_base": 82.42,
+        "fringe": 87.77,
+        "pt_fringe": 87.77,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "FRANCIS DURAN": {
+        "base": 54.2,
+        "pt_base": 81.30000000000001,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "ALVARO CALVO": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "MELANIE DEMICCO": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "JAMES LANGER": {
+        "base": 63.8,
+        "pt_base": 95.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOSE VALLEJO": {
+        "base": 63.8,
+        "pt_base": 95.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOHN MCGARRITY": {
+        "base": 66.3,
+        "pt_base": 98.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "OLIJUAH WILLIAMS": {
+        "base": 24.32,
+        "pt_base": 36.48,
+        "fringe": 24.54,
+        "pt_fringe": 24.54,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "RAFAEL MEDINA": {
+        "base": 62.8,
+        "pt_base": 94.2,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "YONATHAN CABRERA": {
+        "base": 63.8,
+        "pt_base": 95.7,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "ANDREW LABOHN": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "ALDO COSTA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ADAM SMITH": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "PAUL VALES": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "RYAN MCELROEN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "EDGAR GRAY": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ERIC WILES": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MALIK STANFORD": {
+        "base": 18.0,
+        "pt_base": 27.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MATTHEW HOOPS": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MOMODOU SOWE": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ROBERTO MATEO": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JOSEPH LAMONACA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JEREMIAS NIEVES": {
+        "base": 61.75,
+        "pt_base": 92.625,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JOHN SZULBORSKI": {
+        "base": 59.0,
+        "pt_base": 88.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JONATHAN GILL": {
+        "base": 19.75,
+        "pt_base": 29.625,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "VINCENT BENFANTE": {
+        "base": 19.5,
+        "pt_base": 29.25,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "LOUIE VELEZ": {
+        "base": 59.0,
+        "pt_base": 88.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "PATRICK RANELLO": {
+        "base": 64.0,
+        "pt_base": 96.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ORLANDO WYNTER": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CHRISTOPHER MANNA": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "YONG HANGZHOU": {
+        "base": 59.9,
+        "pt_base": 89.85,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JAIR JOHNSON": {
+        "base": 28.68,
+        "pt_base": 43.02,
+        "fringe": 34.07,
+        "pt_fringe": 34.07,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "ALBERT SANDERS": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "JULIUS BROWN": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "ROBERT CHMIEL": {
+        "base": 40.5,
+        "pt_base": 60.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ADAM CHUDY": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "OLEG KONIUKHOV": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WALTER SOTAMBA": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WALTER GUERRERO": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "VASYL GUYZSEVLEYS": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WALDEMAR WASILCZYK": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "HENADZI KHANDOHA": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MANUEL PEREZ": {
+        "base": 38.55,
+        "pt_base": 57.58,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "OLIIAR VOLODYMYR": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MIGUEL RODRIGUEZ": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "VICTOR RODRIGUEZ": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSE SOSA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "BOGDAN STANKOWSKI": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "GERMAN TAPIA": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "MAREK TOBIASZ": {
+        "base": 40.5,
+        "pt_base": 60.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "PAVEL POKHVALYNSKY": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JOSEPH MOSQUEDA": {
+        "base": 46.15,
+        "pt_base": 69.225,
+        "fringe": 61.02,
+        "pt_fringe": 61.02,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "JAYSON LUYSTER": {
+        "base": 46.15,
+        "pt_base": 69.225,
+        "fringe": 61.02,
+        "pt_fringe": 61.02,
+        "S3": 0,
+        "Company": "Atlas"
+    },
+    "DARNELL HAMILTON": {
+        "base": 24.75,
+        "pt_base": 37.125,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "BENEDICT D'AMICO": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "SHANNON DUNCAN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "NARAINE PULLAY": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "BRANDON BUTLER": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "JEREMY GOMEZ": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CARL YAMPIRO": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "JUSTIN THACKE": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "AUBREY ALEXANDER": {
+        "base": 64.43,
+        "pt_base": 96.64500000000001,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "CASEL SATTAR": {
+        "base": 54.2,
+        "pt_base": 81.30000000000001,
+        "fringe": 86.24,
+        "pt_fringe": 86.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "JAMES CASSIDY": {
+        "base": 90.77,
+        "pt_base": 136.155,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "ERIKA GODOY": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "NICHOLAS PETRATOS": {
+        "base": 40.5,
+        "pt_base": 60.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "EDISON MARTINEZ": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "JULIO PEREZ": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 18.0,
+        "pt_fringe": 18.0,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "ADAM CALJEAN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JABARI RHODEN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JANNA WILLIAMSON": {
+        "base": 25.5,
+        "pt_base": 38.25,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "PAUL MARSHALL": {
+        "base": 21.5,
+        "pt_base": 32.25,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DONALD ANDERSEN": {
+        "base": 61.0,
+        "pt_base": 91.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "EGIDIO TENCIC": {
+        "base": 61.0,
+        "pt_base": 91.5,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MICHAEL CANNILLA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "THOMAS BORELLI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "TODD WINCHENBACH": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "EON FANFAIR": {
+        "base": 62.0,
+        "pt_base": 93.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MICHAEL FAVILLA": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "BRIAN MAYERS": {
+        "base": 64.0,
+        "pt_base": 96.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "LOUIE VELEZ DUQUE": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "JOSEPH ARMAGNO": {
+        "base": 64.43,
+        "pt_base": 96.64500000000001,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "Guytec"
+    },
+    "VICENTE DURANTES": {
+        "base": 39.2,
+        "pt_base": 58.800000000000004,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "LUIS FALCON": {
+        "base": 39.2,
+        "pt_base": 58.800000000000004,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "GENARO SANCHEZ": {
+        "base": 47.15,
+        "pt_base": 70.725,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "HENRY TAMAYO": {
+        "base": 39.2,
+        "pt_base": 58.800000000000004,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "FELIPE URGILES": {
+        "base": 39.2,
+        "pt_base": 58.800000000000004,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "WILLIAM RODERICK": {
+        "base": 39.2,
+        "pt_base": 58.800000000000004,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "BALFOUR FRANCIS": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "HARRESH SINGH": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "DAVID HOUTERMAN": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "WILLIAM FILIBERTO": {
+        "base": 20.46,
+        "pt_base": 30.69,
+        "fringe": 6.43,
+        "pt_fringe": 6.43,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "CHRISTOPHER EZAGUI": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "IGOR DOBROVOLSKIY": {
+        "base": 57.75,
+        "pt_base": 86.625,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "PATRICK DONELON": {
+        "base": 57.75,
+        "pt_base": 86.625,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "CHRIS HALLARD": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "ALEXANDER RICHARDS": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "IRVIN TURTIN": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "EDUARDO REYES": {
+        "base": 55.05,
+        "pt_base": 82.525,
+        "fringe": 8.25,
+        "pt_fringe": 8.25,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "CRISTOBAL REYES": {
+        "base": 55.05,
+        "pt_base": 82.525,
+        "fringe": 8.25,
+        "pt_fringe": 8.25,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "RENATO RECINOS": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "AUGUSTINE THOMAS": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "DEHAVEN IRBY": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "MERPHINE SITORUS": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8.0,
+        "pt_fringe": 8.0,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "ENRIQUE SANCHEZ": {
+        "base": 48.47,
+        "pt_base": 72.705,
+        "fringe": 6.16,
+        "pt_fringe": 6.16,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "LUIS ALVAREZ": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 48.48,
+        "pt_fringe": 48.48,
+        "S3": 0,
+        "Company": "Dstar"
+    },
+    "JASON GOMEZ": {
+        "base": 46.75,
+        "pt_base": 70.125,
+        "fringe": 35.88,
+        "pt_fringe": 35.88,
+        "S3": 0,
+        "Company": "Dstar"
+    },
+    "VICTOR LUCIANO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 48.48,
+        "pt_fringe": 48.48,
+        "S3": 0,
+        "Company": "Dstar"
+    },
+    "FERNANDO MARIN": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 48.48,
+        "pt_fringe": 48.48,
+        "S3": 0,
+        "Company": "Dstar"
+    },
+    "DAVID HERNANDEZ": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 48.48,
+        "pt_fringe": 48.48,
+        "S3": 0,
+        "Company": "Dstar"
+    },
+    "FRANKLIN CONDON": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DAVID COUTRYER": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "YONATAN DEJENE": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "ALBERT MARTINEZ": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "WINSTON WILLIAMS": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "BERCHAM FRIDAY": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.26,
+        "pt_fringe": 54.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "KEVIN CONRY": {
+        "base": 22.55,
+        "pt_base": 33.83,
+        "fringe": 17.85,
+        "pt_fringe": 17.85,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "JOSE COLON": {
+        "base": 22.55,
+        "pt_base": 33.83,
+        "fringe": 17.85,
+        "pt_fringe": 17.85,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "JAVIER TORIBIO": {
+        "base": 26.8,
+        "pt_base": 40.20,
+        "fringe": 21.95,
+        "pt_fringe": 21.95,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "ALAN DUNNE": {
+        "base": 58.16,
+        "pt_base": 87.24,
+        "fringe": 54.26,
+        "pt_fringe": 54.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "DESMON JONES": {
+        "base": 58.16,
+        "pt_base": 87.24,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAMEL BONNER": {
+        "base": 58.16,
+        "pt_base": 87.24,
+        "fringe": 54.26,
+        "pt_fringe": 54.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "OCTAVIO LEAL": {
+        "base": 55.05,
+        "pt_base": 82.58,
+        "fringe": 47.83,
+        "pt_fringe": 47.83,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "ANTHONY MIUCCIO": {
+        "base": 55.05,
+        "pt_base": 82.58,
+        "fringe": 47.83,
+        "pt_fringe": 47.83,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "MILTON LOVILL": {
+        "base": 0,
+        "pt_base": 0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "RODNEY MALEBRANCHE": {
+        "base": 34.68,
+        "pt_base": 52.02,
+        "fringe": 36.26,
+        "pt_fringe": 36.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "ALEX MONTERO": {
+        "base": 19.55,
+        "pt_base": 29.33,
+        "fringe": 16.85,
+        "pt_fringe": 16.85,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "RICHARD DELA ROSA": {
+        "base": 34.68,
+        "pt_base": 52.02,
+        "fringe": 36.26,
+        "pt_fringe": 36.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "ISMAEL FERNANDEZ": {
+        "base": 0,
+        "pt_base": 0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "KEITH MILLER": {
+        "base": 34.68,
+        "pt_base": 52.02,
+        "fringe": 36.26,
+        "pt_fringe": 36.26,
+        "S3": 0,
+        "Company": "NAVILLUS"
+    },
+    "MAURO ACAN": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "MARLON LEON": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "RAFAEL GUAMAN": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "ANGEL DUCHI": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "JOSE FALCON": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "ANGEL GAGUANCELA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.2,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "CHRISTIAN CABRERA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "SIG"
+    },
+    "DANIEL MAYANCELA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 32.29,
+        "pt_fringe": 32.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "DENNIS GRANT": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "DANIEL ROSARIO": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JULIO AVILA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "LUIS ESPINOZA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "HOLLAND FRANCIS": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MYKOLA PAVLYUH": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "FRANCIS MCWADE": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "FRANCIS SCOTT": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "AUGUSTO DIONICIO": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "CHARLES CARUSO": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "EDGAR GUACHUN": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JAHTON ANDERSON": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JESUS SALVADOR": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "LUIS YUQUI": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MARCO GUAMAN": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MICHAEL WOLF": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "STEPHEN JOSEPH": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "STEVEN BERGER": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JOSHUA ANDERSON": {
+        "base": 26.9,
+        "pt_base": 40.35,
+        "fringe": 10.82,
+        "pt_fringe": 10.82,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JOHN JEREMIAH": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "LUESTER FELIX": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "LUIS PINTADO": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JONATHAN ORTIZ": {
+        "base": 42.92,
+        "pt_base": 64.38,
+        "fringe": 28.29,
+        "pt_fringe": 28.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "EDWARD NULTY": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JPATRICK LUPETIN": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JULIO CRUZ": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "SHAROD ELSHEIKH": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MICHAEL GUAMAN": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JOSEPH HEMAN": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "EDGAR VEGA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MANUEL ZHICAY": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MARCELO RODRIGUEZ": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "PETER CALIENDO": {
+        "base": 20.97,
+        "pt_base": 31.455,
+        "fringe": 28.29,
+        "pt_fringe": 28.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "LAMARD JOYE": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": "Y",
+        "Company": "Faxa"
+    },
+    "RUBEN FAMANIA": {
+        "base": 36.5,
+        "pt_base": 54.75,
+        "fringe": 44.14,
+        "pt_fringe": 44.14,
+        "S3": 0,
+        "Company": "ATCO"
+    },
+    "RICHARD PERRY": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "GIL SUCHPREET": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "TRAVON WRIGHT": {
+        "base": 18.25,
+        "pt_base": 27.38,
+        "fringe": 21.38,
+        "pt_fringe": 21.38,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "KERRY CONNORS": {
+        "base": 57.1,
+        "pt_base": 85.65,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "Jansons"
+    },
+    "EDGARD SANTANA": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "Jansons"
+    },
+    "CHRISTOPHER CONAWAY": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "Jansons"
+    },
+    "KURT MARTIN": {
+        "base": 59.1,
+        "pt_base": 87.15,
+        "fringe": 60.58,
+        "pt_fringe": 60.58,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "LEMMIE MATTHEWS": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MAURICE BRYAN": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "CARLOS ACEVEDO": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "EDUARDO BRITO": {
+        "base": 20.95,
+        "pt_base": 31.425,
+        "fringe": 10.82,
+        "pt_fringe": 10.82,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "CORNELIO CESAREO": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "ERNESTO EDWARDS": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "JOSE GOMEZ": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "ANGEL AVILA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MICHAEL PEREZ": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MILTON ALLEY": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "ROMAN CAMBALLO": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "ROMEL CARCHIPULLA": {
+        "base": 39.95,
+        "pt_base": 59.925,
+        "fringe": 31.99,
+        "pt_fringe": 31.99,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "WALTER SARAVIA": {
+        "base": 53.65,
+        "pt_base": 80.475,
+        "fringe": 41.29,
+        "pt_fringe": 41.29,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "MICHAEL DINSMORE": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "AINSLEY FOSTER": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "BRYAN KACIN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DAVID LESMAN": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MATTHEW PALMERI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "RICARDO POTTINGER": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DAIKI SUDO": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "PEDRO TORRES": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "DRITAN BANUSHI": {
+        "base": 59.0,
+        "pt_base": 87.0,
+        "fringe": 62.75,
+        "pt_fringe": 62.75,
+        "S3": 0,
+        "Company": "FSE"
+    },
+    "MELANIE DERNICCO": {
+        "base": 52.1,
+        "pt_base": 78.15,
+        "fringe": 57.54,
+        "pt_fringe": 57.54,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "HERNAN RESTREPO": {
+        "base": 36.5,
+        "pt_base": 54.75,
+        "fringe": 41.9,
+        "pt_fringe": 41.9,
+        "S3": 0,
+        "Company": "THEMIS"
+    },
+    "RAY CRAWFORD": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "YONG LIANG ZHOU": {
+        "base": 59.9,
+        "pt_base": 89.85,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "DAINIAN REID": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "CARLOS VEGA": {
+        "base": 56.9,
+        "pt_base": 85.35,
+        "fringe": 11.55,
+        "pt_fringe": 11.55,
+        "S3": 0,
+        "Company": "TONAGE"
+    },
+    "ALBERT MASTANDO": {
+        "base": 81.85,
+        "pt_base": 122.77499999999999,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ALEXANDRE DA SILVA": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANDREW CULL": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANGEL LOPEZ-COTTO": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANGELO DELISO": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANGELO RAPPA": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FELIX SYLVESTER": {
+        "base": 52.77,
+        "pt_base": 79.16,
+        "fringe": 35.08,
+        "pt_fringe": 35.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERT TAPERELL": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANTHONY CULL": {
+        "base": 72.4,
+        "pt_base": 144.8,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSE JORGE": {
+        "base": 72.4,
+        "pt_base": 144.8,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANTHONY LOPEZ": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANTHONY LYNCH": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANTONIO SALVADOR": {
+        "base": 65.0,
+        "pt_base": 97.5,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ASTON REID": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "AUDREY MAITLAND": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "AVINASH RAGNAUTH": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "THOMAS JARBO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BENJAMIN PIAZZA": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BERTINO NOVO BUJEIRO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BERTRAM PRYCE": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BRENTON WINT": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BRIAN SCHOEPE": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CARL CARTER JR": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CECIL GEORGE": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHARLES PALLMEYER": {
+        "base": 72.4,
+        "pt_base": 108.60000000000001,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHERAKY TOUSSAINT": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHRISTIAN OHLENSCHLAEGER": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHRISTOPHER CAPPELLETTI": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHRISTOPHER CHIRCO": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHRISTOPHER HAMILTON": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CHRISTOPHER SOLLIN": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "CLEMENT PERKINS": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "DANIEL LIBURD": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "DANNY MAGALHAES": {
+        "base": 43.98,
+        "pt_base": 65.97,
+        "fringe": 48.51,
+        "pt_fringe": 48.51,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "DAVID MOREIRA": {
+        "base": 45.74,
+        "pt_base": 68.61,
+        "fringe": 35.77,
+        "pt_fringe": 35.77,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "DEON PASCALL": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "DWAYNE NELSON": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "EDGAR RESENDE": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "EDGAR SANCHEZ": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "EDUARDO PINHO": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ERIC TRAYNHAM": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FRANCESCO PUGLIESE": {
+        "base": 72.19,
+        "pt_base": 144.38,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "THEODORE BEUTHE": {
+        "base": 72.19,
+        "pt_base": 144.38,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FRANK JUSTINCIC": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 35.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FRITZ BARREAU": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GABRIEL VENTURA": {
+        "base": 16.78,
+        "pt_base": 25.17,
+        "fringe": 6.43,
+        "pt_fringe": 6.43,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "GABRIEL MALDONADO": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GARY MCINTOSH": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GERALD NUGENT": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GERARD GOLDRICK": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "KARIM HUNEIDI": {
+        "base": 81.85,
+        "pt_base": 163.7,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GIAMPIERO CRECCO": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "WILLIAM SIMONETTI": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JUSTIN DIDIER": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOHN FRISLID": {
+        "base": 89.05,
+        "pt_base": 178.1,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "GREGORY LACAPRIA": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "HENRY WALROND": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JACK MACALUSO": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAMES HERLIHY": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAMES HUNTER": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAMES TRETOLA": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "DOMINGO RODRIGUEZ": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JARED ADLER": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JAY BROWN": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JEFFREY COHILL": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "BRENT SIMON": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LEONARD JENNINGS": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "STEPHEN BROOKS": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JENNIFER PURVEY": {
+        "base": 20.0,
+        "pt_base": 30.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "JONATHAN SCHRIEBER": {
+        "base": 52.05,
+        "pt_base": 78.07499999999999,
+        "fringe": 53.22,
+        "pt_fringe": 53.22,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RICHARD CANNATA": {
+        "base": 52.05,
+        "pt_base": 78.07499999999999,
+        "fringe": 53.22,
+        "pt_fringe": 53.22,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JORGE SALGADO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSE MARTINS": {
+        "base": 64.82,
+        "pt_base": 97.22999999999999,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSE PEREIRA": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARIO DOS SANTOS FINS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SHAQUILLE DAVIS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROMEU OLIVEIRA": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MICHAEL BAILEY": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JARLIL JENKINS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ISAIAH REESE": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "Faxa"
+    },
+    "ANTONIO NASCIMENTO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "DOMINGO LARINO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSEPH GREEN": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSEPH LORIA": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSEPH SGROI": {
+        "base": 81.85,
+        "pt_base": 163.7,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOSEPH SHOEMAKER": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JOZEF SUBA": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "JUAN GARCIA SALAZAR": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "KEVIN ARIAS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "KEVIN BUA": {
+        "base": 63.93,
+        "pt_base": 95.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "KEVIN FITZSIMMONS": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LAURISTON JEREMIAH": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LEANDRA STEWART": {
+        "base": 37.35,
+        "pt_base": 56.025000000000006,
+        "fringe": 36.07,
+        "pt_fringe": 36.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LORD NICHOLSON": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 35.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LUIS LOPEZ": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "LYNDON MASSIAH": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MANUEL SILVA": {
+        "base": 48.45,
+        "pt_base": 72.67500000000001,
+        "fringe": 48.51,
+        "pt_fringe": 52.64,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARCIN TRESTKA": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARCO TAVARES": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARCUS SMITH": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FRANK POMPONIO": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARIO CERQUERIA": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARIO MIRANDA": {
+        "base": 72.4,
+        "pt_base": 144.8,
+        "fringe": 44.82,
+        "pt_fringe": 42.11,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARK KALABA": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARK PRATICANTE": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MATTHEW CAROCCIA": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MELVIN GALLOWAY": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MICHAEL LICARI": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MICHAEL RODRIGUEZ": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NEIL BULLOCK": {
+        "base": 72.19,
+        "pt_base": 144.38,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NICHOLAS CHIRCO": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NICHOLAS LAVINE": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NICHOLAS ROGERS": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NICKY MORELLO": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "OMAR JONES": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PATRICK ALLEN": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PAUL BAQUERO": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 53.07,
+        "pt_fringe": 53.07,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PAUL JORGE": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PAUL ORTOLANI": {
+        "base": 74.65,
+        "pt_base": 149.3,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PAULO FERNANDES": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PEDRO RAMIREZ": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "PETER CATALDO": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RAMON RIVERA": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RICHARD LUNEBURG": {
+        "base": 62.93,
+        "pt_base": 94.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERT GONZALEZ": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERT RUFFINO": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERT SMITH": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERT STEVENS": {
+        "base": 64.82,
+        "pt_base": 97.22999999999999,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROBERTO OLIVO": {
+        "base": 61.16,
+        "pt_base": 91.74,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ROMAN BALDINSH": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RONALD SCIASCIA": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RORY SEAUBALAK": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RUBEN BURGOS": {
+        "base": 45.74,
+        "pt_base": 68.61,
+        "fringe": 35.77,
+        "pt_fringe": 35.77,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SALVATORE MESSINA": {
+        "base": 55.93,
+        "pt_base": 83.895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SAMUEL FOOTMAN": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "SAVONE JAMES": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "SCOTT MONTGOMERY": {
+        "base": 72.4,
+        "pt_base": 144.8,
+        "fringe": 44.82,
+        "pt_fringe": 82.24,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SCOTT SCHMIDT": {
+        "base": 81.85,
+        "pt_base": 163.7,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "SERGIO CORREIA": {
+        "base": 46.5,
+        "pt_base": 69.75,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MHAMED ELYAMAMI": {
+        "base": 54.75,
+        "pt_base": 82.125,
+        "fringe": 8,
+        "pt_fringe": 8,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "SIMHAEE REESE": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": "Y",
+        "Company": "MLJ"
+    },
+    "STEVEN ZEPPIERI": {
+        "base": 55.993,
+        "pt_base": 83.9895,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "TERRELL SMALLS": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "TIAGO RODRIGUES": {
+        "base": 81.85,
+        "pt_base": 122.77499999999999,
+        "fringe": 37.15,
+        "pt_fringe": 68.35,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "VALDEMAR CURADO": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "VICTOR PUZNYAK": {
+        "base": 49.28,
+        "pt_base": 73.92,
+        "fringe": 28.2,
+        "pt_fringe": 28.2,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "VINCENT DELESSIO": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "VINCENT MAZZEI": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "WAYNE BRYE BEY": {
+        "base": 0,
+        "pt_base": 0.0,
+        "fringe": 0,
+        "pt_fringe": 0,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "WINSTON CADDLE": {
+        "base": 53.77,
+        "pt_base": 80.66,
+        "fringe": 35.08,
+        "pt_fringe": 35.08,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "XHEVDET KASTRATI": {
+        "base": 44.0,
+        "pt_base": 66.0,
+        "fringe": 50.43,
+        "pt_fringe": 50.43,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "RUARI CONNOLLY": {
+        "base": 59.01,
+        "pt_base": 88.515,
+        "fringe": 54.64,
+        "pt_fringe": 54.64,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JASON CALISSI": {
+        "base": 55.7,
+        "pt_base": 83.55000000000001,
+        "fringe": 54.64,
+        "pt_fringe": 54.64,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "THOMAS WALSH": {
+        "base": 66.3,
+        "pt_base": 98.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "PETER DUNN": {
+        "base": 62.8,
+        "pt_base": 94.2,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "MATHEW RACZY": {
+        "base": 55.7,
+        "pt_base": 83.55000000000001,
+        "fringe": 54.64,
+        "pt_fringe": 54.64,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAMES KILFEATHER": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "NICHOLAS KOZLAKOWSKI": {
+        "base": 75.85,
+        "pt_base": 113.77499999999999,
+        "fringe": 38.91,
+        "pt_fringe": 38.91,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "LUIGI FUSCHETTO": {
+        "base": 70.85,
+        "pt_base": 106.27499999999999,
+        "fringe": 38.91,
+        "pt_fringe": 38.91,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOSEPH MCGUINESS": {
+        "base": 70.85,
+        "pt_base": 106.27499999999999,
+        "fringe": 38.91,
+        "pt_fringe": 38.91,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOSEPH KIDNEY": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOHN POWERS": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOHN MCPARTLAND": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOHN MCGARITY": {
+        "base": 66.3,
+        "pt_base": 98.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JUSTIN MORALES": {
+        "base": 28.36,
+        "pt_base": 42.54,
+        "fringe": 21.75,
+        "pt_fringe": 21.75,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "WILLIAM FILBERTO": {
+        "base": 28.36,
+        "pt_base": 42.54,
+        "fringe": 21.75,
+        "pt_fringe": 21.75,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "WILLIAM TORRES": {
+        "base": 63.8,
+        "pt_base": 95.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "FRANCESCO SCALERA": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "EDWARD BARTHELMESS": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAY BOUREKAS": {
+        "base": 76.25,
+        "pt_base": 114.375,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "KIRKLAND HARRIS": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "ROBERT OWENS": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "RICHARD SAMUELS": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "MADEN MIKACIC": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JASON SMITH": {
+        "base": 66.3,
+        "pt_base": 98.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAMES REETZ": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOHN HARRINGTON": {
+        "base": 71.25,
+        "pt_base": 106.875,
+        "fringe": 40.51,
+        "pt_fringe": 40.51,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "DOUGLAS MARCHESE": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "CHRISTOPHER CLEARY": {
+        "base": 42.56,
+        "pt_base": 63.84,
+        "fringe": 41.78,
+        "pt_fringe": 41.78,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JOSEPH CLARK": {
+        "base": 61.8,
+        "pt_base": 91.2,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "MICHAEL RICE": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAMES KILROY": {
+        "base": 63.8,
+        "pt_base": 95.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "EUGENE CLARKE": {
+        "base": 63.8,
+        "pt_base": 95.69999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "PATRICK GILLEN": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "ELIZABETH SCRUBB": {
+        "base": 42.56,
+        "pt_base": 63.84,
+        "fringe": 41.78,
+        "pt_fringe": 41.78,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "BRETT MAGEE": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "DAVID BROWN": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JUDE GERESTAN": {
+        "base": 24.32,
+        "pt_base": 36.480000000000004,
+        "fringe": 24.54,
+        "pt_fringe": 24.54,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "MICHAEL HASSLER": {
+        "base": 61.8,
+        "pt_base": 91.19999999999999,
+        "fringe": 58.98,
+        "pt_fringe": 58.98,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAMES FORDLEY": {
+        "base": 52.77,
+        "pt_base": 79.155,
+        "fringe": 35.08,
+        "pt_fringe": 63.08,
+        "S3": 0,
+        "Company": "WELKIN"
+    },
+    "JAIME SUTHERLAND": {
+        "base": 39.95,
+        "pt_base": 59.925000000000004,
+        "fringe": 32.49,
+        "pt_fringe": 32.49,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "ANTHONY GONZALEZ": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "KELLY SIMMONS": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 54.54,
+        "pt_fringe": 54.54,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "MARK NOBLE": {
+        "base": 34.68,
+        "pt_base": 52.02,
+        "fringe": 3.64,
+        "pt_fringe": 3.64,
+        "S3": 0,
+        "Company": "CCC"
+    },
+    "PAUL ARMOUR": {
+        "base": 49.28,
+        "pt_base": 73.92,
+        "fringe": 28.2,
+        "pt_fringe": 32.2,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "FLAVIO TLATELPA-MARMOLEJO": {
+        "base": 56.93,
+        "pt_base": 85.395,
+        "fringe": 52.77,
+        "pt_fringe": 52.77,
+        "S3": 0,
+        "Company": "MLJ"
+    },
+    "NICHOLAS PELLETTIERE": {
+        "base": 16.78,
+        "pt_base": 25.17,
+        "fringe": 6.43,
+        "pt_fringe": 6.43,
+        "S3": 0,
+        "Company": "VITAL"
+    },
+    "OLEKSANDR KARNETA": {
+        "base": 38.05,
+        "pt_base": 57.074999999999996,
+        "fringe": 19.35,
+        "pt_fringe": 19.35,
+        "S3": 0,
+        "Company": "ATCO"
+    }
+}
